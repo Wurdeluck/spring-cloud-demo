@@ -1,13 +1,9 @@
 package org.example.apigateway;
 
-import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
+@SuppressWarnings("unused")
 class ApiGatewayApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
 
 }

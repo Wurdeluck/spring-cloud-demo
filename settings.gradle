@@ -1,5 +1,5 @@
 rootProject.name = 'spring-cloud-demo'
 
-includeBuild 'eureka-server'
-includeBuild 'eureka-client'
-includeBuild 'api-gateway'
+include 'eureka-server'
+include 'eureka-client'
+include 'api-gateway'
